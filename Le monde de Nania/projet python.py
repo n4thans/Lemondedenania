@@ -1,4 +1,4 @@
-def Menu():
+def Menu(:
     print(" ---------------------------")
     print("                            ")
     print("BIENVENUE DANS LE MONDE DE NANIA!")
